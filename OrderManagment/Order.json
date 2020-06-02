@@ -1,0 +1,24 @@
+{
+  "orders": [
+    {
+      "orderId": "Book",
+      "action": "create a duplicate packing slip for the royalty department.#Generate a commission payment to the agent."
+    },
+    {
+      "orderId": "Physical Product",
+      "action": "Generate a packing slip for shipping.#Generate a commission payment to the agent."
+    },
+    {
+      "orderId": "Membership,",
+      "action": "Activate that membership.#E-mail the owner and inform them of the activation."
+    },
+    {
+      "orderId": "Upgrade to a membership,",
+      "action": "Apply the upgrade.#E-mail the owner and inform them of the upgrade."
+    },
+    {
+      "orderId": "video \"Learning to Ski\",",
+      "action": "Add a free �First Aid� video to the packing slip"
+    }
+  ]
+}a
